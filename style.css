@@ -1,0 +1,21 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	font-family: Bitstream Vera Sams Mono;
+	padding: 10px;
+	background: #f1f1f1;
+}
+
+.head{
+	padding: 30px;
+	text-align: center;
+	background: white;
+
+}
+.head h1{
+	font-size: 50px;
+}
+.footer{
+	text-align: center;
+}
